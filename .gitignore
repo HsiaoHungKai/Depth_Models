@@ -1,6 +1,7 @@
 # Include sample images but ignore large output directories
 0.5m_with_scale/
 Depth-Anything-V2/
+Metric3D/
 
 # Ignore large model files and outputs
 *.h5
