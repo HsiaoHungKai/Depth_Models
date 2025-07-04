@@ -1,5 +1,6 @@
 # Include sample images but ignore large output directories
 0.5m_with_scale/
+0.5m_with_scale_pred/
 Depth-Anything-V2/
 Metric3D/
 
