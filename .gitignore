@@ -1,9 +1,12 @@
 # Include sample images but ignore large output directories
-Depth Map Comparison/
+depth_map_comparison/
 0.5m_with_scale/
 0.5m_with_scale_pred/
 Depth-Anything-V2/
 Metric3D/
+study_rooms/
+toolbox_nyu_depth_v2
+nyud_raw_data/
 
 # Ignore large model files and outputs
 *.h5
