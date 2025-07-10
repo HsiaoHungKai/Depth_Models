@@ -7,6 +7,8 @@ Metric3D/
 study_rooms/
 toolbox_nyu_depth_v2
 nyud_raw_data/
+nyuv2-python-toolbox/
+NYU_Raw_extract/
 
 # Ignore large model files and outputs
 *.h5
